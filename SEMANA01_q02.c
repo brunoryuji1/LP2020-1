@@ -1,10 +1,10 @@
-#include <stdio.h>
+// #include <stdio.h>
 
-int main(){
-	int x, y;
+// int main(){
+// 	int x, y;
 	
-		scanf("%i %i", &x, &y);
-		printf("%i %i %i %i %i %i", x-1, x, x+1, y-1, y, y+1);
+// 		scanf("%i %i", &x, &y);
+// 		printf("%i %i %i %i %i %i", x-1, x, x+1, y-1, y, y+1);
 	
-	return 0;
-}
+// 	return 0;
+// }
